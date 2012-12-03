@@ -1,7 +1,3 @@
-if (require) {
-  var jasmine = require("jasmine");
-};
-
 (function() {
   var addAttributes = function(obj, suite, reservedAttributes) {
     var heirarchy = [];
