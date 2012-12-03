@@ -1,0 +1,14 @@
+{
+  "author": "Brian Takita <brian.takita@gmail.com.com>",
+  "name": "jasmine-spec-prototype",
+  "description": "Adds the prototype hash to Suites, to allow overridable methods.",
+  "keywords": ["json", "jasmine", "node"],
+  "version": "0.1.0",
+  "homepage": "https://github.com/milyoni/jasmine-spec-prototype",
+  "repository": "git://github.com/milyoni/jasmine-spec-prototype.git",
+  "main": "index",
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "optionalDependencies": {}
+}
